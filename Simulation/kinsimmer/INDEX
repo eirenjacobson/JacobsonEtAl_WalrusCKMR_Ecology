@@ -1,0 +1,6 @@
+boring_data_prep_mammal                           Summarize close-kin samples ready for log-likelihood computations
+make_sim_names                                    Helper for kin-simulation
+prep_from_sim2                                    Collect CKMR samples after pop dyn simulation
+quickin                                           Find kin-pairs from IBM simulation
+sample_from_catch                                 Close-kin sampler
+simkin                                            CKMR simulator

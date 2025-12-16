@@ -1,0 +1,9 @@
+Package: kinsimmer
+Title: Fast single-stock kin-retaining simulation
+Version: 1.0.24
+Author: Mark Bravington, based on ideas from Shane Baylis
+Description: Fast single-stock kin-retaining simulation, like it says...
+Maintainer: <mark.bravington@csiro.au>
+Imports: mvbutils, atease, offarray
+License: ???
+Built: R 4.3.1; ; 2023-11-07 21:12:28 UTC; windows

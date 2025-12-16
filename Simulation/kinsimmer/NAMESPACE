@@ -1,0 +1,13 @@
+export( "boring_data_prep_fish",
+"boring_data_prep_mammal",
+"make_sim_names",
+"prep_from_sim2",
+"prepare_from_sim",
+"quickin",
+"samp_from_catch2",
+"sample_from_catch",
+"simkin")
+import( mvbutils)
+import( atease)
+import( offarray)
+

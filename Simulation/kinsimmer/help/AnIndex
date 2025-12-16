@@ -1,0 +1,9 @@
+boring_data_prep_fish	boring_data_prep_mammal
+boring_data_prep_mammal	boring_data_prep_mammal
+make_sim_names	make_sim_names
+prepare_from_sim	sample_from_catch
+prep_from_sim2	prep_from_sim2
+quickin	quickin
+sample_from_catch	sample_from_catch
+samp_from_catch2	prep_from_sim2
+simkin	simkin
