@@ -1,4 +1,6 @@
 
+This repository contains code to reproduce the analyses presented in: Jacobson, E. K., M. V. Bravington, D. L. Miller, I. S. Trukhanova, R. L. Taylor, and W. S. Beatty. Combining close-kin and self-mark-recapture to design an effective wildlife population survey.
+
 ## The folder Simulation contains scripts to run the simulation.
 
 - The package fishSim must be installed from https://github.com/SMBaylis/fishSim
@@ -7,7 +9,7 @@
 
 ## The folder CKMRModels contains the ICKMR model code. 
 
-- The following packages must be installed from Mark's repo at https://markbravington.r-universe.dev/builds
+The following packages must be installed from Mark's repo at https://markbravington.r-universe.dev/builds
 
 mvbutils  
 offarray  
@@ -17,17 +19,17 @@ debug
 kinsimmer  
 atease  
 
-- Additional packages required from CRAN:
+Additional packages required from CRAN:
 
 doParallel  
 fastmatch
 
-- Order of Operations:
+Order of Operations:
 
--- 1. fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
+1. fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
 
--- from here, you can either
+from here, you can either
 
--- 2a. compare2sims.R compares model expected values to simulated values
--- 2b. design_eg.R generates expected precision associated with designs
+2a. compare2sims.R compares model expected values to simulated values
+2b. design_eg.R generates expected precision associated with designs
 
