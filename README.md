@@ -9,25 +9,25 @@
 
 - The following packages must be installed from Mark's repo at https://markbravington.r-universe.dev/builds
 
-mvbutils \\
-offarray \\
-despack \\
-TMBO \\
-debug \\
-kinsimmer \\
-atease \\
+mvbutils  
+offarray  
+despack  
+TMBO  
+debug  
+kinsimmer  
+atease  
 
 - Additional packages required from CRAN:
 
-doParallel
+doParallel  
 fastmatch
 
 - Order of Operations:
 
-1. fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
+-- 1. fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
 
-from here, you can either
+-- from here, you can either
 
-2a. compare2sims.R compares model expected values to simulated values
-2b. design_eg.R generates expected precision associated with designs
+-- 2a. compare2sims.R compares model expected values to simulated values
+-- 2b. design_eg.R generates expected precision associated with designs
 
