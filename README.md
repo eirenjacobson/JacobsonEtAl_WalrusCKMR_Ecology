@@ -1,11 +1,11 @@
 
-# The folder Simulation contains scripts to run the simulation.
+## The folder Simulation contains scripts to run the simulation.
 
 - The package fishSim must be installed from https://github.com/SMBaylis/fishSim
 
 - runSimScenarios.R runs the walrus simulation given demographic parameters of interest.
 
-# The folder CKMRModels contains the ICKMR model code. 
+## The folder CKMRModels contains the ICKMR model code. 
 
 - The following packages must be installed from Mark's repo at https://markbravington.r-universe.dev/builds
 
