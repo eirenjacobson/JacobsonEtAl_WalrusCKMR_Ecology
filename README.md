@@ -30,6 +30,6 @@ fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
 
 from here, you can either
 
-compare2sims.R compares model expected values to simulated values
+compare2sims.R compares model expected values to simulated values  
 design_eg.R generates expected precision associated with designs
 
