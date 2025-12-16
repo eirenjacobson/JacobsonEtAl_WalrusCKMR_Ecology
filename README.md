@@ -9,13 +9,13 @@
 
 - The following packages must be installed from Mark's repo at https://markbravington.r-universe.dev/builds
 
-mvbutils
-offarray
-despack
-TMBO
-debug
-kinsimmer
-atease
+mvbutils \\
+offarray \\
+despack \\
+TMBO \\
+debug \\
+kinsimmer \\
+atease \\
 
 - Additional packages required from CRAN:
 
