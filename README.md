@@ -3,9 +3,9 @@ This repository contains code to reproduce the analyses presented in: Jacobson, 
 
 ## The folder Simulation contains scripts to run the simulation.
 
-- The package fishSim must be installed from https://github.com/SMBaylis/fishSim
+The package fishSim must be installed from https://github.com/SMBaylis/fishSim
 
-- runSimScenarios.R runs the walrus simulation given demographic parameters of interest.
+runSimScenarios.R runs the walrus simulation given demographic parameters of interest.
 
 ## The folder CKMRModels contains the ICKMR model code. 
 
@@ -26,10 +26,10 @@ fastmatch
 
 Order of Operations:
 
-1. fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
+fit_walrus_ckmR.R runs the CKMR code on a file of simulated data.
 
 from here, you can either
 
-2a. compare2sims.R compares model expected values to simulated values
-2b. design_eg.R generates expected precision associated with designs
+compare2sims.R compares model expected values to simulated values
+design_eg.R generates expected precision associated with designs
 
